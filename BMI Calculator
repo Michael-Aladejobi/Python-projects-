@@ -1,7 +1,5 @@
 """
-Question: 
-Tracking your BMI is a useful way of checking if you’re maintaining a healthy weight. It’s calculated using a person's weight and height, using this formula: weight / height²
-
+Question:
 
 
 The resulting number indicates one of the following categories:
@@ -16,7 +14,10 @@ Obesity = 30 or more
 
 
 
-Let’s make finding out your BMI quicker and easier, by creating a program that takes a person's weight and height as input and outputs the corresponding BMI category.
+Let’s make finding out your BMI quicker and easier,
+by creating a program that takes a person's weight and
+
+ height as input and outputs the corresponding BMI category.
 
 
 
